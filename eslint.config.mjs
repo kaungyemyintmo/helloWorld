@@ -19,9 +19,7 @@ export default [
       // "no-undef": "error"
       "no-unused-vars": "error",
       "no-undef": 0, 
-      "no-console": "warn",
       "curly": "error",
-      "quotes": ["error", "single"],
-    }
+       }
   }
 ];
